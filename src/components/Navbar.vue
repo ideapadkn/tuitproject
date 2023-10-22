@@ -27,7 +27,7 @@ const handleSignOut = () => {
 
 <template>
   <div class="flex justify-between items-center">
-    <router-link class="text-2xl font-semibold" to="/">
+    <router-link class="text-2xl font-semibold text-green-500" to="/">
       TUIT Project
     </router-link>
     <nav class="navbar flex gap-4 items-center">
